@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+   /*  overflow: hidden; */
+    box-sizing: border-box;
+}
+.container{
+    width: 1100px;
+    margin: auto;
+}
+.mark-text{
+    color: orange;
+}
+.btn{
+    border-radius: 20px;
+    border: none;
+    background-color: orange;
+    color: white;
+    padding: 10px 15px ;
+    cursor: pointer;
+}
+.btn-order {
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Recipi item Section */
+#Recipi-section{
+    margin: 50px 0px;
+    overflow: hidden;
+}
+.Recipi-info{
+    width: 500px;
+    margin: auto;
+}
+.Recipi-info h2{
+    text-align: center;
+}
+
+.recipi-Item-Container{
+    overflow: hidden;
+    margin: auto;
+}
+.single-item{
+    border-radius: 5px;
+    float: left;
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 1px 0px 12px 0px darkgrey;
+}
+.single-item img{
+    max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Baner Section */
+.baner-title {
+    margin-top: 40px;
+}
+
+p {
+    margin: 10px 0px;
+}
+
+
+#baner-section{
+    overflow: hidden;
+}
+.baner-area{
+    padding: 50px 15px;
+}
+.baner-title{
+    width: 40%;
+    float: left;
+}
+.baner-image{
+    width: 40%;
+    float: right;
+}
+
+
+
+/* About Me */
+#about-me{
+    overflow: hidden;
+    margin: 50px 0px;
+}
+.about-info{
+    width: 45%;
+    float: right;
+}
+.about-info h2{
+    padding: 10px 0px;
+}
+.about-info p{
+    padding: 10px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Social Info */
+#page-info{
+    margin: 50px;
+    
+}
+.social-info{
+    text-align: center;
+    margin: auto;
+    overflow: hidden;
+    margin: auto;
+    box-shadow: 2px 5px 16px 1px grey;
+    width: 1200px;
+    padding: 40px;
+}
+.youtube{
+    float: left;
+    width: 30%;
+}
+.instagram{
+    float: left;
+    width: 30%;
+}
+.like{
+    float: left;
+    width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer Style */
+
+#foter{
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    padding: 50px 0px ;
+    color: gray;
+}
+#foter p{
+    padding-top: 30px;
+}
