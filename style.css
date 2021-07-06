@@ -54,7 +54,7 @@
     border-radius: 5px;
     float: left;
     width: 30%;
-    margin: 10px;
+    margin: 17px;
     padding: 20px;
     box-shadow: 1px 0px 12px 0px darkgrey;
 }
@@ -103,6 +103,7 @@ p {
 
 /* About Me */
 #about-me{
+    background-image: url("./Images/7.png");
     overflow: hidden;
     margin: 50px 0px;
 }
@@ -110,8 +111,17 @@ p {
     width: 45%;
     float: right;
 }
+.about-image{
+    width: 45%;
+float: left;
+}
+.about-image img{
+    max-width: 40%;
+    padding-top: 10px;
+}
 .about-info h2{
     padding: 10px 0px;
+    margin-top: 30px;
 }
 .about-info p{
     padding: 10px 0px;
@@ -140,7 +150,7 @@ p {
     overflow: hidden;
     margin: auto;
     box-shadow: 2px 5px 16px 1px grey;
-    width: 1200px;
+    
     padding: 40px;
 }
 .youtube{
